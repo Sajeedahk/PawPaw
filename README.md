@@ -3,7 +3,9 @@
 ## Présentation de PawPaw
 
 Projet : Application de garde d'animaux entre particulier et professionel.
-Application web permettant aux professionnels de postuler des annonces avec les animaux qu'ils peuvent garder ainsi que leurs disponibilités, les clients peuvent donc choisir des professionels pour faire garder leurs animaux tout en choissisant les crénaux ou en en proposant un autre.
+Application web permettant aux professionnels de postuler des annonces avec les animaux qu'ils peuvent garder ainsi que leurs disponibilités, les clients peuvent donc choisir des professionels pour faire garder leurs animaux tout en choissisant les crénaux ou en en proposant un autre. 
+Documentation détaillée : [PawPaw_Documentation-7.pdf](https://github.com/user-attachments/files/26420425/PawPaw_Documentation-7.pdf)
+
 
 ---
 
