@@ -57,14 +57,13 @@ Aller à l'adresse http://localhost/EpreuveE6PawPaw
 ---
 
 ## Modèle Conceptuel de Données (MCD)
+<img width="1167" height="753" alt="Capture d&#39;écran 2026-04-01 220736" src="https://github.com/user-attachments/assets/37755207-f063-414c-9488-dca6815fe9ef" />
 
-<img width="970" height="846" alt="Mcd_PawPaw" src="https://github.com/user-attachments/assets/00134044-46ee-4690-a5cd-f50b9eef0475" />
-
----
 
 ## Diagramme de Cas d'Utilisation
 
-<img width="767" height="543" alt="usecasePAWPAW" src="https://github.com/user-attachments/assets/298fa9b7-e38e-4f1b-9318-835004a234f3" />
+<img width="1138" height="772" alt="Capture d&#39;écran 2026-04-01 220758" src="https://github.com/user-attachments/assets/281edebb-54ed-4c03-8e5c-2bf6ba707340" />
+
 
 ---
 
