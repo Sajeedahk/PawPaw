@@ -1,0 +1,17 @@
+Options -Indexes
+
+# Autoriser l'accès aux fichiers statiques
+RewriteEngine On
+
+# Ne pas réécrire les fichiers et dossiers existants (css, js, images, uploads...)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Tout rediriger vers index.php
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Sécurité : bloquer l'accès direct aux dossiers sensibles
+<FilesMatch "\.(inc\.php|sql)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
