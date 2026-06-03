@@ -66,9 +66,6 @@ Aller à l'adresse http://localhost/EpreuveE6PawPaw
 
 
 ## Diagramme de Cas d'Utilisation
-<img width="1919" height="1079" alt="Capture d&#39;écran 2026-06-03 110937" src="https://github.com/user-attachments/assets/691e0182-ba3a-4fb2-8c7a-ec64298486e0" />
-<img width="1919" height="1079" alt="Capture d&#39;écran 2026-06-03 110552" src="https://github.com/user-attachments/assets/123abfeb-f884-4ba5-8205-0ae6f7a7b418" />
-
 <img width="1138" height="772" alt="Capture d&#39;écran 2026-04-01 220758" src="https://github.com/user-attachments/assets/281edebb-54ed-4c03-8e5c-2bf6ba707340" />
 
 
